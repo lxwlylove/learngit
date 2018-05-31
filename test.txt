@@ -3,4 +3,3 @@ Git is free software.
 git is good.
 git is easy to use.
 git is very useful.
-wly is a pig.
